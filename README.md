@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-wolf 4 egg 23
-fried upstairs
+1. index.html
